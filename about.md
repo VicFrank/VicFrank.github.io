@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is my test blog to show off some of the stuff that I've been working on. Hopefully continually updating it will give me extra incentive to complete many of these projects.
+Some information about you!
 
-In addition, I hope for this website to be something I can show off to potential employers.
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
